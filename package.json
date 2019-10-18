@@ -1,0 +1,16 @@
+{
+  "name": "neural-net-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jaroslav Vercinskij",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.9",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1"
+  }
+}
